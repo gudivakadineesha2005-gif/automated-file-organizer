@@ -1,7 +1,7 @@
 import os
 import shutil
 #INTERNID: CITS1188
-#CodTECH Python Task 2 - Automated File Oraganizer
+#CodTECH Python Task 1 - Automated File Oraganizer
 def organize_files(folder_path):
     file_types = {
         'Images': ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.webp'],
