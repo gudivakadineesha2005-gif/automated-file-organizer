@@ -1,6 +1,6 @@
 # AUTOMATED FILE ORGANIZER
 
-**CodTECH Python Internship - Task 2**  
+**CodTECH Python Internship - Task 1**  
 **INTERNID: CITS1188**
 
 ## 📌 Description
@@ -22,6 +22,6 @@ This Python script automatically organizes files in a given folder into categori
 ## 👩‍💻 Intern Details
 - **Name:** Dineesha
 - **INTERNID:** CITS1188
-- **Task:** 2 - Automated File Organizer
+- **Task:** 1 - Automated File Organizer
 - **Domain:** Python Programming
 - **Company:** CodTECH IT Solutions
